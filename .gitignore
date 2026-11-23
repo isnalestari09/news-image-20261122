@@ -1,0 +1,8 @@
+news-image-20261122-kit/
+kit.tar.gz
+output/
+__pycache__/
+builder-brief.md
+retry-kit.sh
+kit-download.log
+*.pyc
